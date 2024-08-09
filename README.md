@@ -13,8 +13,6 @@
 
 - 🌱 Data Visualtion Tools **PowerBI, Tableau, Looker Studio, AzureDevops**
 
-- 📝 I sometimes write articles on [https://medium.com/@sunanda.biswas](https://medium.com/@sunanda.biswas)
-
 - 📫 How to reach me **sunandabiswas2598@gmail.com**
 
 
