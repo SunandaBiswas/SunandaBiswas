@@ -13,6 +13,8 @@
 
 - 🌱 Data Visualtion Tools **PowerBI, Tableau, Looker Studio, AzureDevops**
 
+- 🌱 Favorite Hobby - Singing and Books Reading
+
 - 📫 How to reach me **sunandabiswas2598@gmail.com**
 
 
