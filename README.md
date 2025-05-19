@@ -1,17 +1,17 @@
-<h1 align="center">Hi👋, I'm Sunanda Biswas</h1>
-<h3 align="center">Area of Expertise : Data Analysis | Machine Learning | Software Engineering</h3>
+<h1 align="center">Hi👋, I'm Sunanda Biswas, Currently working as Software Engineer </h1>
+<h3 align="center">Area of Expertise : Data Analysis | Machine Learning & Deep Learning | Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunandabiswas&label=Profile%20views&color=0e75b6&style=flat" alt="sunandabiswas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunandabiswas" alt="sunandabiswas" /></a> </p>
 
-- 🔭 I’m Currently Working on **Full Stack Web Development**
-
-- 🌱 I’m currently learning **MERN Stack**
+- 🔭 I’m Currently Working on **Full Stack Web Development:MERN Stack** 
 
 - 🌱 Data Analytics stacks **MySQL, PostgreSQL, MongoDB, BigQuery, DataBricks, Python Framework-ApacheSpark**
 
 - 🌱 Data Visualtion Tools **PowerBI, Tableau, Looker Studio, AzureDevops**
+
+- 🌱 Research Interests: Natural Language Processing | Computer Vision | Data Science 
 
 - 🌱 Favorite Hobby - Singing and Books Reading
 
