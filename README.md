@@ -7,7 +7,7 @@
 
 - 🔭 I’m Currently Working on **Full Stack Web Development:MERN Stack** 
 
-- 🌱 Data Analytics stacks **MySQL, PostgreSQL, MongoDB, BigQuery, DataBricks, Python Framework-ApacheSpark**
+- 🌱 Data Analytics stacks **MySQL, PostgreSQL, MongoDB, BigQuery, DataBricks, Bigdata Framework-ApacheSpark**
 
 - 🌱 Data Visualtion Tools **PowerBI, Tableau, Looker Studio, AzureDevops**
 
