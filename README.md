@@ -9,11 +9,11 @@
 
 - 🌱 Data Analytics stacks **MySQL, PostgreSQL, MongoDB, BigQuery, DataBricks, Bigdata Framework-ApacheSpark**
 
-- 🌱 Data Visualtion Tools **PowerBI, Tableau, Looker Studio, AzureDevops**
+- 🌱 Data Visualtion Tools **PowerBI, Tableau, Looker Studio**
 
 - 🌱 Research Interests: **Natural Language Processing** | **Computer Vision** | **Data Science**
 
-- 🌱 Favorite Hobby - Singing and Books Reading
+- 🌱 Favorite Hobby - **Singing and Reading Books**
 
 - 📫 How to reach me **sunandabiswas2598@gmail.com**
 
