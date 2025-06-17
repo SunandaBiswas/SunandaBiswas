@@ -17,10 +17,5 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sunandabiswas2598@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.google.com/)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.google.com/)
-[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.google.com/)
-[![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.google.com/)
-
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sajib1066&theme=highcontrast&show_icons=true&count_private=true)
 
