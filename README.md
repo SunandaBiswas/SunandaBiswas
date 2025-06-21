@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunandabiswas&label=Profile%20views&color=0e75b6&style=flat" alt="sunandabiswas" /> </p>  
 
-[![Gmail](https://img.shields.io/badge/%20-sunandabiswas2598@gmail.com%20-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sunandabiswas2598@gmail.com)   [![LinkedIn SunandaBiswas](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/sunanda-biswas-80ab33146)  [![Google Scholar](https://img.shields.io/badge/%20-Google Scholar-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://scholar.google.com/citations?user=YMoa7pYAAAAJ&hl=en)
+[![Gmail](https://img.shields.io/badge/%20-sunandabiswas2598@gmail.com%20-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sunandabiswas2598@gmail.com)   [![LinkedIn SunandaBiswas](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/sunanda-biswas-80ab33146) 
 
 - 🔭 I’m Currently Working on **Full Stack Web Development:MERN Stack** 
 
