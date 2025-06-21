@@ -11,7 +11,7 @@
 
 - 🌱 Data Visualtion Tools **PowerBI, Tableau, Looker Studio**
 
-- 🌱 Research Interests: **Natural Language Processing** | **Computer Vision** | **Data Science**
+- 🌱 Research Interests: **Natural Language Processing** | **Computer Vision** | **Data Science** | **Machine Learning** | **Deep Learning**
 
 - 🌱 Favorite Hobby - **Singing and Reading Books**
 
