@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Sunanda Biswas, Currently working as Software Engineer </h1>
-<h3 align="center">Area of Expertise : Data Analysis | Machine Learning & Deep Learning | Software Engineering</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunandabiswas&label=Profile%20views&color=0e75b6&style=flat" alt="sunandabiswas" /> </p> 
 
