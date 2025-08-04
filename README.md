@@ -13,7 +13,7 @@
 
 - 🌱 Research Interests: **Natural Language Processing** | **Computer Vision** | **Data Science** | **Machine Learning** | **Deep Learning**
 
-- 🌱 Favorite Hobby - **Singing and Reading Books**
+- 🌱 Favorite Hobby - **Gardening, Singing and Reading Books**
 
 
 
